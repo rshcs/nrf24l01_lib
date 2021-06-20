@@ -1,6 +1,6 @@
-### Improved nrf24l01 library
+### nrf24l01 
 
-*This library covers almost all the main features of nrf24l01*
+*This covers almost all the main features of nrf24l01*
 
 **Working principle (acknowledge payload):**
 
